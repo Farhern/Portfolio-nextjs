@@ -9,17 +9,17 @@ function Main() {
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-between items-center'>
         <div>
            <p className='uppercase text-sm tracking-widest text-gray-600'>
-               LET'S BUILD SOMETHING TOGETHER
+               LET&apos;S BUILD SOMETHING TOGETHER
            </p>
            <h1 className='py-4 text-gray-700'>
-               Hi, I'm <span className='text-[#5651e5]'>Aden</span>
+               Hi, I&apos;m <span className='text-[#5651e5]'>Aden</span>
            </h1>
            <h1 className='py-2 text-gray-700'>
                A Front-End Web Developer
            </h1>
            <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-           I’m a front-end web developer specializing in building
-            exceptional digital experiences. Currently, I’m focused on building responsive front-end 
+           I&apos;m a front-end web developer specializing in building
+            exceptional digital experiences. Currently, I&apos;m focused on building responsive front-end 
             web applications while learning other technologies.
            </p>
            <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
@@ -41,9 +41,15 @@ function Main() {
                 <FaGithub />
               </div>
             </a>
+            <a
+              href='https://mail.google.com/mail/u/0/#inbox'
+              target='_blank'
+              rel='noreferrer'
+            >
              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                  <AiOutlineMail />
              </div>
+            </a>
              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                  <BsFillPersonLinesFill />
              </div>

@@ -28,7 +28,7 @@ function Restaurant() {
             <h2>Overview</h2>
             <p>
                This application was built using React js and styled with Tailwind CSS.
-               It's hosted on Github pages.This is a mobile responsive food app and the 
+               It&apos;s hosted on Github pages.This is a mobile responsive food app and the 
                users can search for any food on the menu. 
           </p>
           <a

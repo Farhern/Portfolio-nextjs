@@ -33,7 +33,7 @@ function Contact() {
                        <p>Front-End Developer</p>
                        <p className='py-4'>
                          I am available for freelance or full-time positions. Contact
-                         me and let's talk.
+                         me and let&apos;s talk.
                        </p>
                     </div>
                     <div>

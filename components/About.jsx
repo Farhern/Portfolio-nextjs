@@ -1,5 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
+import AboutImg from '../public/assets/about.jpg';
 
 function About() {
   return (
@@ -31,7 +32,7 @@ function About() {
            <p className='py-2 text-gray-600 underline cursor-pointer'>Check out some of my latest projects.</p>
           </div>
           <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-          <Image src='/../public/assets/about.jpg' className='rounded-xl' width='500' height='300' alt='/' />
+          <Image src={AboutImg} className='rounded-xl' width='500' height='300' alt='/' />
           </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ function Main() {
                A Front-End Web Developer
            </h1>
            <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-           I&apos;m a front-end web developer specializing in building
+           I&apos;m a front-end web developer specialized in building
             exceptional digital experiences. Currently, I&apos;m focused on building responsive front-end 
             web applications while learning other technologies.
            </p>

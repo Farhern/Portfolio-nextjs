@@ -42,7 +42,7 @@ function Main() {
               </div>
             </a>
             <a
-              href='https://mail.google.com/mail/u/0/#inbox'
+              href='farhanjp7452@gmail.com'
               target='_blank'
               rel='noreferrer'
             >

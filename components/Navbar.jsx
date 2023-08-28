@@ -67,22 +67,22 @@ function Navbar() {
         <div >
         <ul style={{color: `${linkColor}`}} className='hidden md:flex'>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/'>Home</Link>
+              <Link href='/#home' scroll={false}>Home</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/#about'>About</Link>
+              <Link href='/#about' scroll={false}>About</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/#skills'>Skills</Link>
+              <Link href='/#skills' scroll={false}>Skills</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/#projects'>Projects</Link>
+              <Link href='/#projects' scroll={false}>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/'>Resume</Link>
+              <Link href='/#home' scroll={false}>Resume</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/#contact'>Contact</Link>
+              <Link href='/#contact' scroll={false}>Contact</Link>
             </li>
           </ul>
             <div onClick={handleNav} className='md:hidden'>

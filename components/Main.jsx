@@ -42,7 +42,7 @@ function Main() {
               </div>
             </a>
             <a
-              href='farhanjp7452@gmail.com'
+              href='mailto:farhanjp7452@gmail.com'
               target='_blank'
               rel='noreferrer'
             >

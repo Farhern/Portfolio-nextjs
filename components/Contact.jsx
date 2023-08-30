@@ -41,7 +41,7 @@ function Contact() {
                       <p className='uppercase pt-8'>Connect With Me</p>
                       <div className='flex items-center justify-between py-4'>
                           <a
-                            href='https://www.linkedin.com/in/aden-bashir-095a1b252/'
+                            href='www.linkedin.com/in/aden-bashir'
                             target='_blank'
                             rel='noreferrer'
                             >

@@ -24,7 +24,7 @@ function Main() {
            </p>
            <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
            <a
-              href='https://www.linkedin.com/in/aden-bashir-095a1b252/'
+              href='www.linkedin.com/in/aden-bashir'
               target='_blank'
               rel='noreferrer'
             >
@@ -50,9 +50,15 @@ function Main() {
                  <AiOutlineMail />
              </div>
             </a>
+            <a
+              href='https://docs.google.com/document/d/e/2PACX-1vTGcSztvXpY5iaFSXDtbwxQKx_d7M5dpAewNiKnB4fUifZGbaub_pcPZjIqTyD0_9YxdC_1KexYkU5X/pub'
+              target='_blank'
+              rel='noreferrer'
+            >
              <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                  <BsFillPersonLinesFill />
              </div>
+             </a>
            </div>
         </div>
       </div>

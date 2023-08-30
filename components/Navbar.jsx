@@ -79,7 +79,13 @@ function Navbar() {
               <Link href='/#projects' scroll={false}>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/#home' scroll={false}>Resume</Link>
+              <Link 
+                href='https://docs.google.com/document/d/e/2PACX-1vTGcSztvXpY5iaFSXDtbwxQKx_d7M5dpAewNiKnB4fUifZGbaub_pcPZjIqTyD0_9YxdC_1KexYkU5X/pub'
+                target='_blank'
+                rel='noreferrer'
+              >
+                  Resume
+              </Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link href='/#contact' scroll={false}>Contact</Link>

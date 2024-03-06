@@ -3,7 +3,7 @@ import { Inter } from 'next/font/google';
 import Navbar from '../components/Navbar';
 import Main from '../components/Main';
 import About from '../components/About';
-import Skills from '../components/Skills';
+import Skills from '../components/Skillsdepth';
 import Projects from '../components/Projects';
 import Contact from '../components/Contact';
 

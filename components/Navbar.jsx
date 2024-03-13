@@ -80,7 +80,7 @@ function Navbar() {
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
               <Link 
-                href='https://docs.google.com/document/d/e/2PACX-1vTGcSztvXpY5iaFSXDtbwxQKx_d7M5dpAewNiKnB4fUifZGbaub_pcPZjIqTyD0_9YxdC_1KexYkU5X/pub'
+                href='https://docs.google.com/document/d/1FNBeHYEQI5DJFfpe5aQNqWSt1g-8vRFBT8KJBG3Nz90/edit?usp=sharing'
                 target='_blank'
                 rel='noreferrer'
               >
